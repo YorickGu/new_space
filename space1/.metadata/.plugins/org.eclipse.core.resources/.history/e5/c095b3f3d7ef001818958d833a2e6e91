@@ -1,0 +1,5 @@
+package com.pfuser.Servlet;
+
+public class MyServlet extends HttpServlet{
+
+}

@@ -1,0 +1,7 @@
+package com.pfuser;
+
+import javax.servlet.http.HttpServlet;
+@WebServlet("/demo")
+public class DemoSevlet extends HttpServlet{
+	
+}

@@ -1,0 +1,15 @@
+package com.test2;
+
+public class test2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		test2t1 t1 = new test1();
+		
+	}
+	
+	public void speak() {
+		System.out.println("OJBK!!!");
+	}
+
+}

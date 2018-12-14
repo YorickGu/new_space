@@ -1,0 +1,5 @@
+package som.pfuser.mapper;
+
+public interface UsersMapper {
+	List<Users> selAll();
+}
